@@ -1,4 +1,4 @@
-# Image Classification using CNNs
+# Image Classification using Convolutional Neural Networks
 
 This was an assignment involving convolutional neural networks for a Computer Vision course.
 
